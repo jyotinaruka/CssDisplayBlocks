@@ -1,0 +1,48 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper {
+	width: 970px;
+	background-color: rgb(195, 206, 145);
+
+	margin: 0 auto;
+}
+/* header */
+
+header {
+	padding-top: 30px;
+	text-align: center;
+}
+header img {
+	width: auto;
+	height: 50px;
+
+	padding: 20px 40px;
+	background: white;
+}
+header h1 {
+	display: inline;
+}
+
+/* main */
+
+.pics {
+	margin: 0 170px;
+}
+
+.pics img {
+	width: 90px;
+	height: 90px;
+	padding: 10px;
+	border: 5px solid black;
+}
+
+.bg-blue {
+	background-color: rgba(61, 61, 240, 0.479);
+}
+
+.bg-red {
+	background-color: rgb(221, 94, 94);
+}
